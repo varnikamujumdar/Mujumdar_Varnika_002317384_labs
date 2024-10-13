@@ -114,6 +114,6 @@ public class MainJFrame extends javax.swing.JFrame {
         Supplier bestBuy = supplierDirectory.addSupplier();
         bestBuy.setSupplyName("Best Buy");
     }
-
+    
     
 }
