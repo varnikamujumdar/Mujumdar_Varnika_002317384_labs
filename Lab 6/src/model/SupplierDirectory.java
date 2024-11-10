@@ -34,6 +34,7 @@ public class SupplierDirectory {
         supplierList.remove(s);
     }
 
+    
     public Supplier searchSupplier(String supplierName) {
         for (Supplier supplier : supplierList) {
             if (supplier.getSupplyName().equals(supplierName)) {
