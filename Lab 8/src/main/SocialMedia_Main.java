@@ -100,5 +100,6 @@ public class SocialMedia_Main {
         helper.getPassiveUsers(); //Q.4
         helper.getPassiveCommentUsers();//Q.5
         helper.getPassiveAndActiveOverallUsers();//Q.6 and Q.7
+        
     }
 }
